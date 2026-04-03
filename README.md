@@ -1,2 +1,2 @@
-# lc-chs
-LeetCode solutions in C and Haskell.
+# algo
+Algorithms exercises in various programming languages.
